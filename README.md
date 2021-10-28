@@ -18,4 +18,4 @@ Esta aplicação foi feita em **NODE.js** com as seguintes tecnologias e bibliot
 7. Cors
 8. Dotenv 
 
-Para usar o projeto clone o repositorio ou faça seu download, após entre na pasta raiz do projeto  NODE_HEAT e utilize o comando **yarn** e após **yarn dev**.
+Para usar o projeto clone o repositorio ou faça seu download, após entre na pasta raiz do projeto  nlw-heat-node e utilize o comando **yarn** e após **yarn dev**.
